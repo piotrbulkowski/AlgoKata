@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilter", "BloomFilter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilter.UnitTests", "BloomFilter.UnitTests\BloomFilter.UnitTests.csproj", "{72B28BBB-CB80-4EC8-91D1-18D0B49EE237}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilter.PerfTests", "BloomFilter.PerfTests\BloomFilter.PerfTests.csproj", "{1AA3A958-6507-4EBA-8200-909E555631CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{72B28BBB-CB80-4EC8-91D1-18D0B49EE237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B28BBB-CB80-4EC8-91D1-18D0B49EE237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B28BBB-CB80-4EC8-91D1-18D0B49EE237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA3A958-6507-4EBA-8200-909E555631CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA3A958-6507-4EBA-8200-909E555631CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA3A958-6507-4EBA-8200-909E555631CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA3A958-6507-4EBA-8200-909E555631CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
